@@ -2,7 +2,7 @@
 layout: post
 title: "我的工具箱"
 description: ""
-category: development
+category: others
 tags: [tools]
 ---
 {% include JB/setup %}
