@@ -2,7 +2,7 @@
 layout: post
 title: "新建博客"
 description: ""
-category: ruby
+category: others
 tags: [jekyll]
 ---
 {% include JB/setup %}
