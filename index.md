@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 宇宙边缘的小博客
-tagline: ruby sa web html photography
+title: 宇宙边缘的小酒馆
+tagline: 
 ---
 {% include JB/setup %}
 
