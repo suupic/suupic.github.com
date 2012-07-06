@@ -14,7 +14,7 @@ blog系统：[Jekyll](https://github.com/mojombo/Jekyll)
 
 主题模板：[Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-在线markdown编辑器：[pose.io](http://prose.io/)
+markdown编辑器：[pose.io](http://prose.io/)
 
 
 
