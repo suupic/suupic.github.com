@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 宇宙边缘的小酒馆
-tagline: 成就不循常, make something people want
+tagline: '成就不循常, make something people want'
 author :
   name : skywalker
   email : suupic#gmail.com
