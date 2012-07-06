@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 传说中的小博客
+title: 宇宙边缘的小博客
 tagline: ruby sa web html photography
 ---
 {% include JB/setup %}

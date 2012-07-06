@@ -9,13 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 传说中的小博客
+title : 宇宙边缘的小博客
 tagline: 
 author :
-  name : Skywalker
+  name : skywalker
   email : suupic#gmail.com
   github : suupic
   twitter : suupic
+  weibo: suuu
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
